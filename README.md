@@ -1,2 +1,2 @@
-# goit-markup-hw-002
+# goit-markup-hw-02
 html + css project
