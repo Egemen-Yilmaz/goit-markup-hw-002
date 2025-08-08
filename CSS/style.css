@@ -53,19 +53,19 @@ h3 {
   text-decoration: underline;
 }
 
-.nav-list {
+a.nav-list {
   color: #2e2f42;
+  text-decoration: none;
 }
-
-.nav-list:hover {
+a.nav-list:hover {
   color: #404bbf;
 }
 
-.address-link {
+a.address-link {
   color: #434455;
+  text-decoration: none;
 }
-
-.address-link:hover {
+a.address-link:hover {
   color: #404bbf;
 }
 
